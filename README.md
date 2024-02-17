@@ -3,10 +3,15 @@ Planetary Simulation with Turtle Graphics
 This Python script simulates a simple planetary system using the Turtle graphics library. The script displays several celestial bodies orbiting around a central "sun" object.
 
 Features:
+
 Sun: A central object representing the sun, depicted as a large yellow circle.
+
 Planets: Several planets orbiting around the sun, each represented by a smaller circle. The planets included in the simulation are Earth, Mercury, Venus, and Mars.
+
 Moons: Earth has one moon, Mars has two moons.
+
 Stars: Randomly scattered stars are displayed around the sun to enhance the visual appeal.
+
 Orbital Motion: All celestial bodies move in circular orbits around the sun, creating a dynamic simulation.
 
 Format:
